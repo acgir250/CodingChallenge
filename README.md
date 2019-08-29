@@ -1,4 +1,4 @@
-# Software Engineer Challenge Solution
+# PayPay Coding Challenge
 
 <ol>
 <li> Coding task: 
