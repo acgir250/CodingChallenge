@@ -1,4 +1,4 @@
-# PayPay Coding Challenge
+# Coding Challenge
 
 <ol>
 <li> Coding task: 
